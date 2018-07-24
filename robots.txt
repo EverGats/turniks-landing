@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /cgibin
+Disallow: /webalizer
+Disallow: /index.htm
+Disallow: /indexcopy1.php
